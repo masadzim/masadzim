@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+livelong learner, currently work in Tech Culinary 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -8,9 +8,9 @@ Lifelong Learner, currently working as budagh kompeni.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
+### <summary><strong>About Me</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning Data Analytics, Full stack Engineer, Back end.   </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:masadzim@gmail.com">Email me!</a>  </br>
     - :cloud: Pronouns: Her. </br>
